@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+body {
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background: #23272a;
+  color: #fff;
+}
+.starter-template {
+  text-align: left;
+}
+h1 {
+  color: #23272a;
+  -webkit-text-stroke: 2px #5539cc;
+  font-family: Poppins;
+  font-size: 4rem;
+}
+.form-control {
+  background: #181b1d;
+  border: #181b1d;
+}
+.btn-blurple {
+  background: #5539cc !important;
+  color: #fff;
+}
+.fas {
+  color: #fff;
+}
