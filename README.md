@@ -6,7 +6,7 @@
 Email generator can quickly create multiple aliases for your gmail. So having one account, you can automatically have many other mail accounts to Google. Also, this Gmail generator is known under the following names: Googlemail Trick, Gmail dot Trick, Fake gmail generator
 
 ## Demo
-**URL - [https://helptricks.com/tools/gmail-dot-trick/](https://helptricks.com/tools/gmail-dot-trick/)**  
+**URL - [https://frazix.is-a.dev/gmail-dot-trick/](Click Me)**  
 
 
 ## Keywords
@@ -17,4 +17,4 @@ Email generator can quickly create multiple aliases for your gmail. So having on
 
 ## Author
 
-- Udara Karunarathna
+- Frazix
